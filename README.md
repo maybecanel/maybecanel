@@ -3,5 +3,5 @@
     <br>
     <img src="https://github.com/maybecanel/canel.cloud/blob/main/images/title.png?raw=true" width="500">
     <br>
-    <span style="font-size: 24px;">Hey, I'm Canel.</span>
+    <span style="font-size: 1px;">Hey, I'm Canel.</span>
 </h1>
