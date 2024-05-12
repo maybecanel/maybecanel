@@ -1,9 +1,9 @@
-<h1 align="center">
+<h1 align="center" font-size=55px>
     <img src="https://github.com/maybecanel/canel.cloud/blob/main/images/header.png?raw=true" width="1000">
     <br>
     <img src="https://github.com/maybecanel/canel.cloud/blob/main/images/title.png?raw=true" width="500">
     <br>
-    <span style="font-size:0.5em;">why you here</span>
+    <span style="font-size=55pm">why you here</span>
     <br>
     <img src="https://skillicons.dev/icons?i=html,js,css,cs,lua,java">
 </h1>
