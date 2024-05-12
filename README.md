@@ -3,5 +3,5 @@
     <br>
     <img src="https://github.com/maybecanel/canel.cloud/blob/main/images/title.png?raw=true" width="500">
     <br>
-    [![My Skills](https://skillicons.dev/icons?icon=javascript,html,css,wasm)](https://skillicons.dev)
+    <img src="https://skillicons.dev/icons?i=html,js,css">
 </h1>
