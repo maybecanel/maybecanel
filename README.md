@@ -3,7 +3,7 @@
     <br>
     <img src="https://github.com/maybecanel/canel.cloud/blob/main/images/title.png?raw=true" width="500">
     <br>
-    <span style="font-size=55pm">why you here</span>
+    <span style="font-size=16px">why you here, bored?</span>
     <br>
     <img src="https://skillicons.dev/icons?i=html,js,css,cs,lua,java">
 </div>
