@@ -3,7 +3,7 @@
     <br>
     <img src="https://github.com/maybecanel/canel.cloud/blob/main/images/title.png?raw=true" width="500">
     <br>
-    Hey, i'm Canel.
+    <p>Hey, i'm Canel.</p>
 </h1>
 
 ![Footer](./footer.png)
