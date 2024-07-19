@@ -11,6 +11,7 @@
     <img src="https://skillicons.dev/icons?i=html,js,css,cs,lua,java">
     <hr>
     <h3>💼 Working on nothing</h3>
+    <h3>📖 Learning C++ soon</h3>
     <h3>👀 I love coding, backend and frontend!</h3>
     <hr>
     <h4>Now.. lets get right into to my stats:</h4>
