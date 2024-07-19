@@ -6,7 +6,7 @@
     <span>why you here, bored?</span>
     <br>
     <br>
-    <img src="https://komarev.com/ghpvc/?username=your-github-username&color=red">
+    <img src="https://komarev.com/ghpvc/?username=maybecanel&color=red">
     <br>
     <img src="https://skillicons.dev/icons?i=html,js,css,cs,lua,java">
     <hr>
