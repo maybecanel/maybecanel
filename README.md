@@ -10,7 +10,7 @@
     <br>
     <img src="https://skillicons.dev/icons?i=html,js,css,cs,lua,java">
     <hr>
-    <h3>💼 Working on Project Nebula</h3>
+    <h3>💼 Working on Luminate</h3>
     <h3>📖 Learning C++</h3>
     <h3>👀 I love coding, backend and frontend!</h3>
     <hr>
